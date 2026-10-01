@@ -355,7 +355,7 @@ This software was developed primarily as an educational and demonstration projec
 ## Academic Credits & License
 
 - **Project Name:** CarePlus Hospital Management System
-- **Repository Source:** [GitHub Repository Link](#)
+- **Repository Source:** [GitHub Repository Link](#https://github.com/ashykunii/CarePlus_HMS)
 - **Authors / Developers:** Sok Sorya
 - **Course Title:** Web Application Development with PHP and MySQL
 - **Supervising Lecturer:** Mork Ratha
